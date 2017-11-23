@@ -4,6 +4,8 @@ red
 green
 blue
 violet
+cobald
 black
 purple
-pony
+indigo
+
