@@ -4,5 +4,7 @@ red
 green
 blue
 violet
+cobald
 black
 purple
+indigo
