@@ -1,7 +1,8 @@
-# Rainbow
+# Rainbow and unicorn
 The colors of the rainbow
 red
 green
 blue
 violet
 black
+purple
